@@ -1,0 +1,7 @@
+type Hero with name Andrey:
+    Andrey.iq = 90
+    Andrey.legs = 2
+    Andrey.arms = 2
+
+
+lore = "мясник города"
